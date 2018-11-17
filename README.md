@@ -2,9 +2,11 @@
 Various tests and examples on Python
 
 ML projects
--Movie embeddings
--Movie recommender
+
+1. Movie embeddings
+2. Movie recommender
 
 Non-ML projects
--Test Intercom library
--Pandas tutorial
+
+1. Test Intercom library
+2. Pandas tutorial
