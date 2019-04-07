@@ -1,0 +1,240 @@
+﻿Message;2450;NULL;NULL;NULL;You are going to assign vehicles to all %1 orders in this location, do you want to continue?
+Message;2451;NULL;NULL;NULL;cancel save of
+Message;2452;NULL;NULL;NULL;uncommit
+Message;2453;NULL;NULL;NULL;Are you sure you want to %1 route for vehicle %2 and date %3?
+Message;2454;NULL;NULL;NULL;All orders of this vehicle are now available
+Message;2455;NULL;NULL;NULL;Select export file
+Message;2456;NULL;NULL;NULL;You have pasted %1 IDs. Do you want to deselect all orders before selecting the pasted IDs?
+Message;2457;NULL;NULL;NULL;%1 orders were selected, %2 orders could not be selected
+Message;2458;NULL;NULL;NULL;No vehicles selected
+Message;2459;NULL;NULL;NULL;Are you sure you want to optimize %1 vehicles and %2 orders?
+Message;2460;NULL;NULL;NULL;NOTE: There are %1 orders that were optimized and not saved, if you continue their optimization will be lost.
+Message;2461;NULL;NULL;NULL;No solution found, please changes parameters (more vehicles or fewer mandatory orders).
+Message;2462;NULL;NULL;NULL;The following orders were not accesible:
+Message;2463;NULL;NULL;NULL;Not accesible
+Message;2464;NULL;NULL;NULL;No new orders are selected to be included in the new optimization, do you want only to remove orders?
+Message;2465;NULL;NULL;NULL;un-save
+Message;2466;NULL;NULL;NULL;You are going to %1 this vehicle and optimize it again. All existing orders of this vehicle and all orders selected in the grid will be used in the new optimization. Do you want to remove any existing orders?
+Message;2467;NULL;NULL;NULL;Select which orders to REMOVE by deselecting them. (%1 total orders)
+Message;2468;NULL;NULL;NULL;Include in optimization
+Message;2469;NULL;NULL;NULL;Customer order ID
+Message;2470;NULL;NULL;NULL;Description
+Message;2471;NULL;NULL;NULL;Routing\npriority
+Message;2472;NULL;NULL;NULL;No orders selected, %1 the vehicle and optimize it again
+Message;2473;NULL;NULL;NULL;You are going to %1 the route of vehicle %2 and run it again after removing %3 existing orders and adding %4 new. Do you want to make all remaining orders mandatory?
+Message;2474;NULL;NULL;NULL;Executing %1...
+Message;2475;NULL;NULL;NULL;Refreshing orders...
+Message;2476;NULL;NULL;NULL;Do you want to use the specific starting position of vehicle as loading position instead of the depot?
+Message;2477;NULL;NULL;NULL;Adding %1 order(s) to %2...
+Message;2478;NULL;NULL;NULL;Removing %1 order(s) from %2...
+Message;2479;NULL;NULL;NULL;First get the orders and optimize route
+Message;2480;NULL;NULL;NULL;No vehicles used, nothing to save
+Message;2481;NULL;NULL;NULL;Select which routes to commit
+Message;2482;NULL;NULL;NULL;Select which routes to save
+Message;2483;NULL;NULL;NULL;# orders
+Message;2484;NULL;NULL;NULL;Max weight
+Message;2485;NULL;NULL;NULL;Max volume
+Message;2486;NULL;NULL;NULL;Max height
+Message;2487;NULL;NULL;NULL;Save
+Message;2488;NULL;NULL;NULL;Status
+Message;2489;NULL;NULL;NULL;Saving and committing
+Message;2490;NULL;NULL;NULL;Saving
+Message;2491;NULL;NULL;NULL;%1 routes...%2 vehicles
+Message;2492;NULL;NULL;NULL;Nothing to save
+Message;2493;NULL;NULL;NULL;Routes commited
+Message;2494;NULL;NULL;NULL;Routes saved
+Message;2495;NULL;NULL;NULL;Include in\noptimization
+Message;2496;NULL;NULL;NULL;Mandatory
+Message;2497;NULL;NULL;NULL;Scheduled to\nvehicle
+Message;2498;NULL;NULL;NULL;Visit order
+Message;2499;NULL;NULL;NULL;Arrival time
+Message;2500;NULL;NULL;NULL;Order ID
+Message;2501;NULL;NULL;NULL;Customer order
+Message;2502;NULL;NULL;NULL;Is geocoded
+Message;2503;NULL;NULL;NULL;Order type
+Message;2504;NULL;NULL;NULL;Type of equipment
+Message;2505;NULL;NULL;NULL;Expiration date
+Message;2507;NULL;NULL;NULL;Zipcode
+Message;2508;NULL;NULL;NULL;Possible\nvehicles
+Message;2509;NULL;NULL;NULL;Arrival\nweight
+Message;2510;NULL;NULL;NULL;Arrival\nvolume
+Message;2511;NULL;NULL;NULL;Weight
+Message;2512;NULL;NULL;NULL;Volume
+Message;2513;NULL;NULL;NULL;Height
+Message;2514;NULL;NULL;NULL;Contact details
+Message;2515;NULL;NULL;NULL;Request date from
+Message;2516;NULL;NULL;NULL;Request date to
+Message;2517;NULL;NULL;NULL;Delivery address
+Message;2518;NULL;NULL;NULL;Problem
+Message;2519;NULL;NULL;NULL;Order description
+Message;2520;NULL;NULL;NULL;MSPComment
+Message;2521;NULL;NULL;NULL;Pin status
+Message;2522;NULL;NULL;NULL;Picking in progress
+Message;2523;NULL;NULL;NULL;Phone number 1
+Message;2524;NULL;NULL;NULL;Contact with DB
+Message;2525;NULL;NULL;NULL;BD Phone
+Message;2526;NULL;NULL;NULL;Outlet phone
+Message;2527;NULL;NULL;NULL;Delivery phone
+Message;2528;NULL;NULL;NULL;Outlet code
+Message;2529;NULL;NULL;NULL;Location\nsource
+Message;2530;NULL;NULL;NULL;Warnings
+Message;2531;NULL;NULL;NULL;# vehicles
+Message;2532;NULL;NULL;NULL;Related zone
+Message;2533;NULL;NULL;NULL;Restricted zone
+Message;2534;NULL;NULL;NULL;Service time (1st)
+Message;2535;NULL;NULL;NULL;Service time (After 1st)
+Message;2536;NULL;NULL;NULL;Time window
+Message;2537;NULL;NULL;NULL;"Select after which location to add orders"""
+Message;2538;NULL;NULL;NULL;Depot
+Message;2539;NULL;NULL;NULL;Specific location
+Message;2540;NULL;NULL;NULL;Distance
+Message;2541;NULL;NULL;NULL;Travel time
+Message;2542;NULL;NULL;NULL;Service time in destination
+Message;2543;NULL;NULL;NULL;Distance: %1, total duration: %2
+Message;2544;NULL;NULL;NULL;Route for vehicle %1
+Message;2545;NULL;NULL;NULL;Distance: %1 Total duration: %2 End time: %3
+Message;2546;NULL;NULL;NULL;There is no existing route in this location
+Message;2547;NULL;NULL;NULL;Multiple vehicles have routes on this location, please add the order(s) using 'Add to specific vehicle' or use the grid
+Message;2548;NULL;NULL;NULL;You cannot change saved and committed vehicles for past days
+Message;2549;NULL;NULL;NULL;Vehicle is not saved
+Message;2550;NULL;NULL;NULL;Vehicle is not committed
+Message;2551;NULL;NULL;NULL;Vehicle has completed its route
+Message;2552;NULL;NULL;NULL;Cannot change route because there are %1 orders for which picking is in progress
+Message;2553;NULL;NULL;NULL;All orders already assigned to vehicles
+Message;2554;NULL;NULL;NULL;%1 orders to add, select location to add after or press ESC to cancel
+Message;2555;NULL;NULL;NULL;More than one scenarios are committed for this depot and date, start routing from the start: %1, %2
+Message;2556;NULL;NULL;NULL;Order %1 is scheduled to vehicle %2 which does not exist
+Message;2557;NULL;NULL;NULL;Error loading vehicles grid layout, please restore default
+Message;2558;NULL;NULL;NULL;Order is not pending
+Message;2559;NULL;NULL;NULL;None of the orders are pending
+Message;2561;NULL;NULL;NULL;" to %1 orders"
+Message;2562;NULL;NULL;NULL;Color on map
+Message;2563;NULL;NULL;NULL;Vehicle type
+Message;2564;NULL;NULL;NULL;Capacity weight
+Message;2565;NULL;NULL;NULL;Capacity volume
+Message;2566;NULL;NULL;NULL;Max height
+Message;2567;NULL;NULL;NULL;Optimizing is not allowed for past dates
+Message;2568;NULL;NULL;NULL;Depot start time is not set
+Message;2569;NULL;NULL;NULL;Depot end time is not set
+Message;2570;NULL;NULL;NULL;First get the orders
+Message;2571;NULL;NULL;NULL;No orders for optimization
+Message;2572;NULL;NULL;NULL;No vehicles for optimization
+Message;2573;NULL;NULL;NULL;Latitude and longitude not specifed for vehicle  %1
+Message;2574;NULL;NULL;NULL;Customer order %1 - Only one order in list
+Message;2575;NULL;NULL;NULL;Customer order %1 - Only one selected for optimization
+Message;2576;NULL;NULL;NULL;Customer order %1 - Incorrect types
+Message;2577;NULL;NULL;NULL;Cannot continue because there are problems with POS2POS orders:\n%1
+Message;2578;NULL;NULL;NULL;Order %1 cannot be added to any route because all selected vehicle types cannot reach it.
+Message;2579;NULL;NULL;NULL;Order %1 cannot be added to any route because no vehicles are assigned to it.
+Message;2580;NULL;NULL;NULL;Invalid start time and end time for depot!
+Message;2581;NULL;NULL;NULL;Request timeout, please try again
+Message;2582;NULL;NULL;NULL;Cannot find vehicle ID %1
+Message;2583;NULL;NULL;NULL;Cannot find marker for order ID %1
+Message;2584;NULL;NULL;NULL;Cannot find order ID %1
+Message;2585;NULL;NULL;NULL;Route for vehicle %1 does not exist
+Message;2586;NULL;NULL;NULL;Error in vehicle %1: %2
+Message;2587;NULL;NULL;NULL;Both start and end position
+Message;2588;NULL;NULL;NULL;Start position
+Message;2589;NULL;NULL;NULL;End position
+Message;2590;NULL;NULL;NULL;You cannot change saved routes for past days
+Message;2591;NULL;NULL;NULL;Invalid vehicle status
+Message;2592;NULL;NULL;NULL;Procedure cancelled
+Message;2593;NULL;NULL;NULL;Order %1 is already assigned to a vehicle
+Message;2594;NULL;NULL;NULL;Cannot add to route because of zone restrictions
+Message;2595;NULL;NULL;NULL;Unsaving vehicle route failed
+Message;2596;NULL;NULL;NULL;Order vehicle not found
+Message;2597;NULL;NULL;NULL;At least one order must remain in the route
+Message;2598;NULL;NULL;NULL;Unsaving vehicle route failed
+Message;2600;NULL;NULL;NULL;Multiple routes returned!
+Message;2601;NULL;NULL;NULL;You have already committed a route for scenario %1, you cannot commit scenario %2
+Message;2602;NULL;NULL;NULL;Vehicle %1 does not have a valid OrderSchedulingID, it cannot be updated to committed
+Message;2603;NULL;NULL;NULL;Vehicle %1 is not saved anymore, it cannot be updated to committed
+Message;2604;NULL;NULL;NULL;Saving of vehicle %1 failed
+Message;2605;NULL;NULL;NULL;Vehicle with ID %1 not found
+Message;2606;NULL;NULL;NULL;Error in order %1, it is assigned to vehicle %2 that is already committed or completed. Remove it from the optimization and run it again
+Message;2607;NULL;NULL;NULL;Error in order %1, it is assigned to vehicle %2 that is already saved, order status should be saved, not pending. Refresh orders.
+Message;2608;NULL;NULL;NULL;Cannot uncommit because there are orders in picking, please click 'get orders' to refresh
+Message;2609;NULL;NULL;NULL;Error loading orders grid layout, please restore default
+Message;2610;NULL;NULL;NULL;Please, select exactly one vehicle
+Message;2611;NULL;NULL;NULL;The selected vehicle must start its route from a specific location, not from the depot
+Message;2612;NULL;NULL;NULL;Wrong time string format %1
+Message;2613;NULL;NULL;NULL;Show outlet
+Message;2614;NULL;NULL;NULL;Assign vehicles
+Message;2615;NULL;NULL;NULL;Select all orders
+Message;2616;NULL;NULL;NULL;Add to route
+Message;2617;NULL;NULL;NULL;Add to
+Message;2618;NULL;NULL;NULL;Export to excel
+Message;2619;NULL;NULL;NULL;Paste order IDs
+Message;2620;NULL;NULL;NULL;Copy cell value to clipboard
+Message;2621;NULL;NULL;NULL;Remove from route
+Message;2622;NULL;NULL;NULL;Include all
+Message;2623;NULL;NULL;NULL;Exclude all
+Message;2624;NULL;NULL;NULL;All mandatory
+Message;2625;NULL;NULL;NULL;None mandatory
+Message;2626;NULL;NULL;NULL;Include orders with available vehicles
+Message;2627;NULL;NULL;NULL;Restore columns
+Message;2628;NULL;NULL;NULL;Uncommit vehicle
+Message;2629;NULL;NULL;NULL;Cancel route
+Message;2630;NULL;NULL;NULL;Focus on this vehicle
+Message;2631;NULL;NULL;NULL;Optimize this vehicle again
+Message;2632;NULL;NULL;NULL;Show route
+Message;2633;NULL;NULL;NULL;Show all
+Message;2634;NULL;NULL;NULL;Hide all
+Message;2635;NULL;NULL;NULL;Select zones to include in optimization
+Message;2636;NULL;NULL;NULL;The value in the selected cell is null or empty!
+Message;2637;NULL;NULL;NULL;Getting orders...
+Message;2638;NULL;NULL;NULL;Show
+Message;2639;NULL;NULL;NULL;Highlight
+Message;2640;NULL;NULL;NULL;Name
+Message;2641;NULL;NULL;NULL;Zone type
+Message;2642;NULL;NULL;NULL;Select zones to include in optimization
+Message;2643;NULL;NULL;NULL;Code
+Message;2645;NULL;NULL;NULL;Driver/Technician
+Message;2646;NULL;NULL;NULL;Specific Zones
+Message;2647;NULL;NULL;NULL;%1 visible orders, %2 selected
+Message;2648;NULL;NULL;NULL;Optimizing route...%1 vehicles, %2 orders, %3 seconds time limit
+Message;2649;NULL;NULL;NULL;Exceed weight
+Message;2650;NULL;NULL;NULL;Exceed volume
+Message;2651;NULL;NULL;NULL;Exceed height
+Message;2652;NULL;NULL;NULL;Exceed max working time
+Message;2653;NULL;NULL;NULL;Exceed max travel time
+Message;2654;NULL;NULL;NULL;Set routing parameters
+Message;2655;NULL;NULL;NULL;Route one vehicle using starting location as depot
+Message;2656;NULL;NULL;NULL;Invalid value for extra weight: %1
+Message;2657;NULL;NULL;NULL;Invalid value for extra volume: %1
+Message;2658;NULL;NULL;NULL;Invalid value for extra height: %1
+Message;2659;NULL;NULL;NULL;Invalid value for extra extra working hours: %1
+Message;2660;NULL;NULL;NULL;Invalid value for extra travel hours: %1
+Message;2661;NULL;NULL;NULL;Invalid value for time limit: %1
+Message;2662;NULL;NULL;NULL;Invalid value for time limit: %1
+Message;2664;NULL;NULL;NULL;Street name
+Message;2665;NULL;NULL;NULL;City
+Message;2666;NULL;NULL;NULL;No results
+FormControl;fRouting;btnOptimizeRoute;NULL;NULL;Optimize route
+FormControl;fRouting;btnSaveRoute;NULL;NULL;Save route
+FormControl;fRouting;btnReportActions;NULL;NULL;Show report
+FormControl;fRouting;btnCommitRoute;NULL;NULL;Commit route
+FormControl;fRouting;btnGetOrders;NULL;NULL;Get orders
+LayoutItem;fRouting;NULL;LayoutControlItem7;NULL;Business unit
+LayoutItem;fRouting;NULL;LayoutControlItem1;NULL;Depot
+LayoutItem;fRouting;NULL;LayoutControlItem3;NULL;Scenario
+LayoutItem;fRouting;NULL;LayoutControlItem4;NULL;Route date
+LayoutItem;fRouting;NULL;LayoutControlItem5;NULL;Committed scenario
+LayoutItem;fRouting;NULL;LayoutControlGroup2;NULL;Vehicles
+LayoutItem;fRouting;NULL;LayoutControlGroup3;NULL;Zones
+Form;fRouting;NULL;NULL;NULL;Routing
+FormControl;fRoutingParameters;btnReportActions;NULL;NULL;Restore to default
+FormControl;fRoutingParameters;btnCancel;NULL;NULL;Cancel
+FormControl;fRoutingParameters;btnOK;NULL;NULL;OK
+FormControl;fRoutingParameters;chkAutomaticLimit;NULL;NULL;Automatic
+FormControl;fRoutingParameters;chkIgnorePriorityBuckets;NULL;NULL;Ignore priority buckets
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem7;NULL;Extra working hours
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem9;NULL;Extra travel hours
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem10;NULL;Extra weight allowed
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem12;NULL;Extra volume allowed
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem13;NULL;Extra height allowed
+LayoutItem;fRoutingParameters;NULL;LayoutControlItem1;NULL;Time limit (sec)
+Form;fRoutingParameters;NULL;NULL;NULL;Parameters
+Report;RouteReport;NULL;NULL;NULL;Route report
+Report;RouteReportExt;NULL;NULL;NULL;Route report extended
+Report;RouteReportSavedRoutes;NULL;NULL;NULL;Saved routes
